@@ -1,4 +1,4 @@
-package sprint6_Devi;
+package dsa_problems;
 
 public class mergeArrays {
 public static int[] merge(int m, int n, int arr[], int arr1[]) {
